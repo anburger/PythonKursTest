@@ -1,0 +1,78 @@
+ #Test file (for scripting purposes only) - this is not a "real" file
+ Title:, Report
+ Page Number:, _PAGE_
+
+ Title:, Test Results Provided By
+
+ Operator:, Max Mustermann
+ Final Test Result:, Failed
+ Run Number:, 1
+ Test Date:, 1/25/2021
+ Retry Count:, 1
+ Test Name:, MyTest
+
+ Title:, Parameters
+
+ Wire Resistance:, 25.0 Ohm
+ Shorts Test Resistance:, 500 kOhm
+
+ Title:, HV Parameters
+
+ DW Voltage:, 2.70 kV
+ DW Frequency:, DC
+ DW Dwell Time:, 12 ms
+ DW Max Current:, 130 uA
+ IR Voltage:, 70.0 V
+ IR Resistance:, 6.50 MOhm
+
+ Title:, Nets Status
+
+ Name, Test Method, Measured IR, DW Total Current, DW Real Current
+ Net1, Standard, NO READING, NO READING, NO READING
+ Net2, Standard, >500 MOhm, , 
+ Net3, Standard, >500 MOhm, , 
+ Net4, Standard, >500 MOhm, , 
+ Net5, Standard, >500 MOhm, , 
+ Net6, Standard, >500 MOhm, , 
+ J13-005, Standard, >500 MOhm, , 
+ J13-010, Standard, >500 MOhm, , 
+ J13-011, Standard, >500 MOhm, , 
+ J13-012, Standard, >500 MOhm, , 
+ J13-013, Standard, >500 MOhm, , 
+ J13-014, Standard, >500 MOhm, , 
+ J13-015, Standard, >500 MOhm, , 
+ J13-016, Standard, >500 MOhm, , 
+ J13-017, Standard, >500 MOhm, , 
+ J13-018, Standard, >500 MOhm, , 
+ J13-019, Standard, >500 MOhm, , 
+ J13-020, Standard, >500 MOhm, , 
+ J13-021, Standard, >500 MOhm, , 
+ J13-022, Standard, >500 MOhm, , 
+ J13-023, Standard, >500 MOhm, , 
+ J13-024, Standard, >500 MOhm, , 
+ J13-025, Standard, >500 MOhm, , 
+ J13-026, Standard, >500 MOhm, , 
+ J13-027, Standard, >500 MOhm, , 
+ J14-005, Standard, >500 MOhm, , 
+ J14-010, Standard, >500 MOhm, , 
+ J14-011, Standard, >500 MOhm, , 
+ J14-012, Standard, >500 MOhm, , 
+ J14-013, Standard, >500 MOhm, , 
+ J14-014, Standard, >500 MOhm, , 
+
+
+
+
+
+ Title:, Measured Values
+
+ #, Instruction Type, From Points, To Points, Value Measured, Value Expected, Measured Detail
+ 1, WIRE, J13-001, J14-001, 0.15 Ohm, 9.0 Ohm, Measured 0.15 Ohm
+ 2, WIRE, J13-002, J14-002, 0.15 Ohm, 9.0 Ohm, Measured 0.15 Ohm
+ 3, WIRE, J13-003, J14-003, 0.15 Ohm, 9.0 Ohm, Measured 0.15 Ohm
+ 4, WIRE, J13-004, J14-004, 0.15 Ohm, 9.0 Ohm, Measured 0.15 Ohm
+ 5, WIRE, J13-006, J14-006, 0.15 Ohm, 9.0 Ohm, Measured 0.15 Ohm
+ 6, WIRE, J13-007, J14-007, 0.15 Ohm, 9.0 Ohm, Measured 0.15 Ohm
+ 7, WIRE, J13-008, J14-008, 0.15 Ohm, 9.0 Ohm, Measured 0.15 Ohm
+
+
